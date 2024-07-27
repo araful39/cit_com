@@ -21,6 +21,10 @@ class RText{
   static const next="Next";
   static const createANewPassword="Create a New account";
   static const createAPassword="Create a password";
+  static const firstAndLastName="Fast and last name";
+  static const mobileNumber="Mobile Number";
+  static const alreadyHaveAnAccount="Already have an account?";
+  static const yourIdentifyConfirm="Your identity Confirm";
 
 
 
